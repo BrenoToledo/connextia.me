@@ -1,0 +1,12 @@
+<svg width="180" height="48" viewBox="0 0 180 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#40c4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="48" rx="12" fill="#0a1428"/>
+  <path d="M26 14c6.627 0 12 5.373 12 12s-5.373 12-12 12H12V14h14zm-2.4 6h-7.6v12h7.6a6 6 0 0 0 0-12z" fill="url(#grad)"/>
+  <text x="56" y="30" font-family="Poppins, Arial, sans-serif" font-size="18" fill="#f5f7fb" font-weight="600">connextia.me</text>
+</svg>
+
